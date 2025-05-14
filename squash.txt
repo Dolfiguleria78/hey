@@ -1,0 +1,41 @@
+hii
+hey
+hello
+
+PS C:\Users\dolfi\Desktop\web dev cohort> git add .
+PS C:\Users\dolfi\Desktop\web dev cohort> git branch
+* master
+PS C:\Users\dolfi\Desktop\web dev cohort> git branch feature-login
+PS C:\Users\dolfi\Desktop\web dev cohort> git branch
+  feature-login
+* master
+PS C:\Users\dolfi\Desktop\web dev cohort> git checkout feature-login
+A       worksheet/git practices/login.html
+Switched to branch 'feature-login'
+PS C:\Users\dolfi\Desktop\web dev cohort> git branch 
+* feature-login
+  master
+PS C:\Users\dolfi\Desktop\web dev cohort> git checkout master
+A       worksheet/git practices/login.html
+Switched to branch 'master'
+PS C:\Users\dolfi\Desktop\web dev cohort> git merge feature-login
+Already up to date.
+PS C:\Users\dolfi\Desktop\web dev cohort> git add .
+PS C:\Users\dolfi\Desktop\web dev cohort> git commit -m "added"
+[master 52a61f0] added
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 worksheet/git practices/login.html
+ create mode 100644 worksheet/git practices/squash.txt
+PS C:\Users\dolfi\Desktop\web dev cohort> git branch
+  feature-login
+* master
+PS C:\Users\dolfi\Desktop\web dev cohort> git branch feature-about
+PS C:\Users\dolfi\Desktop\web dev cohort> git checkout feature-about
+Switched to branch 'feature-about'
+PS C:\Users\dolfi\Desktop\web dev cohort> git branch
+* feature-about
+  feature-login
+  master
+PS C:\Users\dolfi\Desktop\web dev cohort> git checkout master
+Switched to branch 'master'
+PS C:\Users\dolfi\Desktop\web dev cohort> 

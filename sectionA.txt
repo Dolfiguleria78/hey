@@ -1,0 +1,28 @@
+ANS 1- VCS updates the features of the app time to time and also solves the problem of buggs.
+
+ANS 2 -In Centralized VCS, it works with Server or In Distributed VCS, it is the combination 
+of Locally VCS and Centralized VCS.
+
+ANS 3- Git is a open source version tool in which developers install locally on their pc's 
+whereas GitHub is a paid source platform where no modification and viewing occurs publicaly. 
+
+ANS 4- 
+ANS 5- git create the hidden folder .git,this folder contains all the internal data ,git uses
+ to track code history.
+
+ANS 6- Git branching let us take an example, i wrote the book and after completing the book ,
+i want to add some line so i simply make a duplicate copy(new branch) and checkout ,if i
+ satisfied the lines ,i put it into the original book(main branch).
+ To create - git branch 
+ git branch<branch name>
+ To switch - git checkout new.
+
+ ANS 7- In Git reset,suppose teir are 3 commits and i saved all but i want to delete the last
+  one so we use reset command,it simply shifts the head of the 3rd commit to the 2nd commit
+   (previously) and add the id of 2nd commit ,the 3rd commit deleted temmporary whereas In 
+   git reset --hard<id> it deletes the 3rd commit permanentely.
+
+  ANS 8- Squash merge is defined as the process of combining small commits into one new commit 
+  and merge it into the main branch and it is used to detect the complicated history.    
+
+ ANS 9- doubt in this question.

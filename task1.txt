@@ -1,0 +1,23 @@
+hii
+
+PS C:\Users\dolfi\Desktop\web dev cohort> git init
+Initialized empty Git repository in C:/Users/dolfi/Desktop/web dev cohort/.git/
+PS C:\Users\dolfi\Desktop\web dev cohort> git add .
+PS C:\Users\dolfi\Desktop\web dev cohort> git commit -m "added"
+[master (root-commit) c6d280d] added
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 worksheet/git practices/task1.txt
+ create mode 100644 worksheet/sectionA.txt
+ create mode 100644 worksheet/sectionb.txt
+PS C:\Users\dolfi\Desktop\web dev cohort> git status
+On branch master
+nothing to commit, working tree clean
+PS C:\Users\dolfi\Desktop\web dev cohort> git log
+commit c6d280d27780492c9ee8767ad6f27e88b06df9d8 (HEAD -> master)
+Author: Dolfiguleria78 <dolfiguleria130@gmail.com>
+Date:   Wed May 14 19:34:22 2025 +0530
+
+    added
+PS C:\Users\dolfi\Desktop\web dev cohort> git log --oneline 
+c6d280d (HEAD -> master) added
+PS C:\Users\dolfi\Desktop\web dev cohort> 
