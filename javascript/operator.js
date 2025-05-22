@@ -23,7 +23,8 @@
 
 output:
 
-Running] node "c:\Users\dolfi\Desktop\web dev cohert\javascript\operator.js"
+
+[Running] node "c:\Users\dolfi\Desktop\web dev cohert\javascript\operator.js"
 5
 
 [Done] exited with code=0 in 0.632 seconds
