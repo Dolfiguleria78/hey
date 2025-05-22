@@ -1,4 +1,4 @@
-// let str = "AlphaIntern";  //(ques 1)
+// let str = "AlphaIntern";  // (ques 1)
 // console.log(str.replace("Intern", "Mentor"));
 
 // output:
@@ -8,7 +8,7 @@
 
 // [Done] exited with code=0 in 0.617 seconds
 
-// let str = "banana"; //(ques 2)
+// let str = "banana"; // (ques 2)
 // console.log(str.replaceAll("a", "z"));
 
 // output:
@@ -18,7 +18,7 @@
 
 //[Done] exited with code=0 in 0.686 seconds
 
-// let str = "   JavaScript is awesome   "; //(ques 3 )
+// let str = "   JavaScript is awesome   "; // (ques 3 )
 // console.log(str.trim());
 
 // output:
@@ -28,7 +28,7 @@
 
 // [Done] exited with code=0 in 0.628 seconds
 
-// let str = "AlphaIntern";  //(ques 4)
+// let str = "AlphaIntern";  // (ques 4)
 // console.log(str.slice(5));
 
 // output:
@@ -38,7 +38,7 @@
 
 // [Done] exited with code=0 in 0.623 seconds
 
-// let str = "AlphaIntern"  //(ques 5)
+// let str = "AlphaIntern"  // (ques 5)
 // console.log(str.slice(0, 5))
 
 // output:

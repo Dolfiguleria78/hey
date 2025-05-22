@@ -1,4 +1,4 @@
-// let str = "developer"; //( ques 6)
+// let str = "developer"; // ( ques 6)
 // console.log(str.includes("love"));
 
 // output:
@@ -8,7 +8,7 @@
 
 // [Done] exited with code=0 in 0.673 seconds
 
-//  let str = "AlphaIntern"; //(ques 7)
+//  let str = "AlphaIntern"; // (ques 7)
 //  console.log(str.startsWith("Alpha"));
 
 // output:
@@ -18,7 +18,7 @@
 
 // [Done] exited with code=0 in 0.631 seconds
 
-// let str = "AlphaIntern"; //(ques 8)
+// let str = "AlphaIntern"; // (ques 8)
 //  console.log(str.endsWith("tern"));
 
 //  output:
@@ -27,7 +27,7 @@
 
 // [Done] exited with code=0 in 0.616 seconds
 
-// let str = "JavaScript"; //(ques 9)
+// let str = "JavaScript"; // (ques 9)
 // console.log(str.indexOf("a"));
 
 // output:
@@ -37,7 +37,7 @@
 
 // [Done] exited with code=0 in 0.643 seconds
 
-// let str= "I am a Backend Developer"; //(ques 10)
+// let str= "I am a Backend Developer"; // (ques 10)
 // console.log(str.includes("Backend"));
 
 // output:
@@ -46,4 +46,3 @@
 // true
 
 // [Done] exited with code=0 in 0.561 seconds
-
