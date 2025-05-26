@@ -9,10 +9,10 @@
 //  console.log(a++)
 //  console.log(a++)
 // let a=5;
-//  console.log(++a)
+//  console.log(++a)   // pre increment op
 //  console.log(++a)
 //  let b=10; //no.
-//   let c=2;
+//   let c=2;  // no.
 //  let d="10"; //string 
 //  console.log(b==d) //comparison op
 //  console.log(b===d) //strictly check the datatype &value of both 
