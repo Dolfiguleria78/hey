@@ -1,4 +1,4 @@
-// function greet (){  // cheejo ko bnaane se phle hi access kr paare h'
+// function greet (){  // cheejo ko bnaane se phle hi access kr paare h.
 //     console.log ("hello")
 // }
 // greet()  
